@@ -75,17 +75,18 @@ a:hover {
   align-items: flex-start;
 }
 .linkgf {
-  margin-left: 700px;
   background-color: rgb(0, 57, 100);
   width: 180px;
   height: 50px;
   border-radius: 20px;
   color: #ffffff;
   border: none;
-  display: flex;
-  align-items: center;
-  margin-top: 20px;
   cursor: pointer;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
 }
 .linkgf:hover {
   background-color: #05006c;
